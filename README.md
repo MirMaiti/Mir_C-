@@ -1,2 +1,2 @@
-# Mir_C-
+# Mir_C++
 C++ projects
